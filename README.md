@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello and welcome to my github 👋
 
-<!--
-**20Rducks/20Rducks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a recent graduate of Le Wagon, London
+    currently looking for my first job as a developer
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Ruby on Rails as my first framework,
+    Two Web Apps pushed to production with plenty more to come.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m hoping to collaborate on further projects to build my skillset,
+    Front or Backend, i'm happy to learn more on both fronts!
+
+💬 Connect with me on my [LinedIn](www.linkedin.com/in/20Rwillcox)
+ 
+⚡ Fun fact: Chef for 12 years, Travelled 6 out of 7 continents, Hoping for a 7th one day.
+
