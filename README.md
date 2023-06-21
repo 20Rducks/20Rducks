@@ -9,7 +9,7 @@
 👯 I’m hoping to collaborate on further projects to build my skillset,
     Front or Backend, i'm happy to learn more on both fronts!
 
-💬 Connect with me on my [LinedIn](www.linkedin.com/in/20Rwillcox)
+💬 Connect with me on my [LinkedIn](www.linkedin.com/in/20Rwillcox)
  
 ⚡ Fun fact: Chef for 12 years, Travelled 6 out of 7 continents, Hoping for a 7th one day.
 
